@@ -1,0 +1,611 @@
+#---------------------------------------------------------------------------------------------------------#
+#	 author: BinhDT
+#	 test accuracy 71.83
+#	 1:positive, 0:neutral, 2:negative
+#---------------------------------------------------------------------------------------------------------#
+top notch well
+say one times(label 1|predict 1) city
+food(label 1|predict 1) always fresh hot eat
+mention outstanding
+certainly not best sushi new york however always fresh place(label 1|predict 1) very clean
+people(label 1|predict 1) go sushi never
+no very decent japanese food(label 1|predict 1)
+best spicy great
+try not menu(label 0|predict 1)
+love drinks(label 1|predict 1) food(label 1|predict 1) also very good
+fact not a barely
+while a decent menu(label 1|predict 1) take minutes get drinks(label 0|predict 1) for a dessert pizza(label 0|predict 1)
+once top notch food(label 1|predict 1) live us a evening
+horrible rude
+down
+menu(label 2|predict 1) small
+find neighborhood go sushi for fresh sushi(label 1|predict 1) great all a reasonable price(label 1|predict 1)
+great food(label 1|predict 1) but service(label 2|predict 1)
+food(label 0|predict 2) came out mediocre
+two looked like
+from friendly made for us get
+enjoyed going back for
+almost incredible favorite day(label 1|predict 1)
+food(label 1|predict 1) extremely tasty wine(label 1|predict 1) excellent
+probably best tasted
+sushi freshest most delicious sushi(label 1|predict 1) nyc
+highly recommend for not just superb but also for friendly
+if some indian food(label 1|predict 1) a cozy quite
+definitely enjoyed food(label 1|predict 1) well
+pleasantly service(label 1|predict 1) delightful food(label 1|predict 1) from appetizers(label 1|predict 1)
+food(label 1|predict 1) good nice
+how for lunch(label 2|predict 1)
+two what a
+should a bit more friendly
+think good
+if want good well food(label 1|predict 1) eat can't go wrong
+definitely try incredible
+also very attentive really
+mouth
+a great experience pleasant food(label 1|predict 1) tasty large size(label 1|predict 1) would highly recommend appetizer(label 1|predict 1)
+like
+food(label 1|predict 1) good recommend
+meal(label 2|predict 2) very expensive for what get
+try pizza cheese(label 1|predict 1)
+good food(label 1|predict 1) right price(label 1|predict 1) what more can ask for
+food(label 1|predict 1) top notch service(label 1|predict 1) attentive great
+great food(label 1|predict 1) great great best all great
+still one most favorite restaurants area food(label 1|predict 1) inexpensive but very good special(label 1|predict 1) excellent a great
+menu(label 1|predict 1) interesting quite reasonably priced(label 1|predict 1)
+food(label 1|predict 1) delicious fresh used
+made food(label 2|predict 1) wasn't cooked fresh made before hand then
+appetizer(label 1|predict 1) excellent can make a great inexpensive meal(label 1|predict 1) out
+spicy a
+also get best ever
+however disappointed food(label 2|predict 2)
+huge great attentive service(label 1|predict 1) pretty good prices(label 1|predict 1)
+highly disappointed service(label 2|predict 2) food(label 2|predict 2)
+then but from just went
+food(label 1|predict 1) great even better
+amazing
+food(label 1|predict 1) very good friendly
+also absolutely delicious
+while large a bit drinks(label 1|predict 1) fantastic food(label 1|predict 1) superb
+one some can a
+food(label 1|predict 1) almost always excellent
+surprised taste(label 1|predict 1)
+a nice long doesn't get too crowded a make a great for
+never before a
+really a relaxing back
+location certainly
+less than accomodating
+also more back relaxed
+great all
+service(label 1|predict 1) best part
+like
+very intimate romantic
+food(label 1|predict 1) wonderful
+very look good too
+worst though taste(label 2|predict 2)
+tried way too sweet
+fine
+warm
+food(label 1|predict 1) great big selection(label 1|predict 1) reasonable prices(label 1|predict 1) drinks(label 1|predict 1) really good
+mouth
+food(label 0|predict 1) take a few extra minutes come but cute made for
+most reasonably priced(label 1|predict 1)
+selection food(label 1|predict 1) excellent not used much restaurants great
+only dessert(label 2|predict 2) overpriced taste(label 2|predict 2)
+food(label 1|predict 1) decent but not great
+dont know what some people who hot
+a delight a bar(label 1|predict 1) good food(label 1|predict 1)
+always look even high
+very nice a from rest
+yes a bit more expensive then but then again food(label 1|predict 2)
+can say all fresh tasty well worth money
+anywhere else prices(label 1|predict 1) would high
+service(label 1|predict 1) friendly good
+friendly a a work
+seated
+service(label 1|predict 1) best ever nyc
+amazing
+food(label 1|predict 1) very good pleasantly surprised see many
+know real indian food(label 2|predict 1) wasn't
+sure try
+even when not food(label 1|predict 1) service(label 1|predict 1) right
+everything from even done well very tasty
+very professional attentive
+rather over cooked but fine
+highly good
+really enjoy food(label 1|predict 1) great food(label 1|predict 1) service(label 1|predict 1) really good
+
+small
+wait
+however food(label 2|predict 1) service(label 2|predict 1)
+sushi(label 2|predict 1) cut than
+service(label 1|predict 1) great always nice hot
+just how delicious can
+especially thin good enough make restaurant worth trip
+a delicious
+dinner(label 1|predict 1) real good
+food not unless want mouth
+a japanese restaurant
+but food(label 1|predict 1) delicious
+try couple rice(label 1|predict 1)
+a
+yummy
+best chinese food(label 1|predict 1)
+service(label 1|predict 1) for over make everyone happy
+but a little
+very friendly
+very friendly out world
+great wine list(label 1|predict 1) great menu(label 1|predict 1)
+delicious perfect
+food(label 1|predict 1) wonderful done simply delicious
+tiny restaurant very fast service(label 1|predict 1)
+may not for everyone since
+husband least 6 times always given service(label 1|predict 1) often free
+a beautiful perfect for drinks(label 0|predict 1) appetizers(label 0|predict 1)
+make best pizza(label 1|predict 1) new
+what a service(label 1|predict 1) very food(label 1|predict 1) better than average but what really out such a extensive list(label 1|predict 0)
+chinese food(label 2|predict 1) something can make better home
+only one for restaurant
+also well cheese plate(label 0|predict 1)
+not service(label 1|predict 1) excellent
+without one worst ever
+friendly good
+also recommend
+best indian food(label 1|predict 1) ever eaten
+place best pizza(label 1|predict 1)
+which sometimes a little too for taste
+service(label 1|predict 1) excellent always without
+go great make feel
+sushi(label 1|predict 1) always fresh yummy menu(label 1|predict 1) pretty
+food(label 1|predict 1) great sushi(label 1|predict 1) good but cooked food(label 1|predict 1) us
+dinner fantastic
+great food(label 1|predict 1) great drinks(label 1|predict 1) nice dining
+for price(label 2|predict 1) pay for food(label 2|predict 0) expect least other japanese restaurants
+food small average
+sit back one
+
+really nice very back all while
+for a take meal(label 1|predict 1) try hot
+bar all great drinks(label 1|predict 1) cool excellent service(label 1|predict 1) delicious food(label 1|predict 1)
+also appetizer(label 1|predict 1)
+finally got bad service(label 2|predict 2) back
+ordered which cooked tasted awesome
+especially like
+if looking for authentic food(label 1|predict 1) look no
+good food(label 1|predict 1) good wine(label 1|predict 1)
+extremely friendly pleasant
+while food(label 1|predict 1) delicious sushi(label 1|predict 1) out world
+everything from excellent service(label 1|predict 1) cute extremely
+simple italian food(label 1|predict 1)
+food(label 1|predict 1) all around good usually excellent sushi not quite same
+cut a little
+could better for 1 3 price(label 2|predict 1)
+great hot wonderful great things like a delicious know us
+well because a a rude who us waiting(label 2|predict 2) 20 minutes for drinks(label 0|predict 2) then us out
+not only service(label 1|predict 1) great but conversation around a table can both romantic
+when dish(label 2|predict 1) arrived definitely not a
+worst service(label 2|predict 2) ever food(label 2|predict 2) average when actually people ordered
+for lunch(label 0|predict 1) take out(label 0|predict 1) dine in(label 0|predict 0)
+sure food(label 0|predict 1) one fresh
+food(label 1|predict 1) great prices(label 1|predict 1) reasonable
+place(label 1|predict 1) clean if like food(label 1|predict 1) then place
+a
+a very good good well
+but terrible
+completely out cold side not very
+ever heard anything wonderful
+way too much money for such a terrible meal(label 2|predict 2)
+however service(label 2|predict 2) absolutely horrible
+a slow bar service(label 2|predict 2)
+dessert(label 1|predict 2) also die for
+service(label 1|predict 1) very good
+eaten
+made want food(label 2|predict 2) overpriced most looked like might off plate
+a cozy place(label 1|predict 1) go a couple friends
+service(label 1|predict 1) always great around make sure enjoy
+because need
+food(label 1|predict 1) delicious highly recommended
+when came time take order us a hard time walked away then came back a for us write down what wanted but
+
+for a filling meal(label 1|predict 1) give a go
+since for a very food(label 0|predict 0) eat restaurants
+service(label 1|predict 1) outstanding
+friends stop for pizza(label 0|predict 1) before
+always enjoy pizza(label 1|predict 1)
+service(label 1|predict 1) pretty good
+yum great
+food(label 1|predict 1) great a from end
+
+just everything food(label 1|predict 1) kind
+food(label 1|predict 1) very good service(label 1|predict 1) great
+usually get one
+make dining experience(label 2|predict 1)
+place best indian food(label 1|predict 1) new york hands down
+very friendly helpful if remember
+intimate but charming extremely friendly attentive service(label 1|predict 1)
+food(label 1|predict 1) creative both
+menu(label 1|predict 1) great a good selection(label 1|predict 1) everything tried absolutely delicious
+nice
+place best sushi(label 1|predict 1) city
+excellent selection(label 1|predict 1) really great
+everyone who helpful
+food(label 1|predict 1) fantastic
+
+spot for lunch(label 0|predict 1) done a lot
+but know real
+cheese quality perfect
+friend a wonderful
+happy food(label 1|predict 1) even more when bill(label 1|predict 1)
+all fresh think perfect one actually how made
+always amazing service(label 1|predict 1) love food(label 1|predict 1)
+friendly always seems see us food(label 1|predict 1) wonderful if not creative
+love
+came across restaurant while a enjoyed meal(label 1|predict 1)
+service(label 1|predict 1) excellent no wait(label 1|predict 1) get a lot for price(label 1|predict 1)
+thought food(label 2|predict 2) cheap all
+a better deal than overpriced
+didn't know if should order a drink(label 0|predict 0)
+not best japanese restaurant east village but a pretty one for prices(label 1|predict 1) worth
+food(label 1|predict 1) good waiting(label 2|predict 1) can really a
+first place(label 1|predict 1) seemed great
+went for
+even for two very hungry people food(label 1|predict 1) left taken home really well also
+then made a dry around a cold inside
+just good food(label 1|predict 1) nothing more all want
+average a lot
+wife recently for dinner(label 0|predict 1) a wonderful experience
+service(label 1|predict 1) perfect too nothing wrong italian restaurant
+back because not cooked order
+go can't anything eat not because menu(label 2|predict 1) great things eat
+half a a rice(label 0|predict 1) for
+service(label 1|predict 1) really fast friendly value(label 1|predict 1) great
+very impressed food(label 1|predict 1) value(label 1|predict 1)
+must try
+delicious other which all very inexpensive
+made fresh serve
+accomodating make sure
+always
+reasonably priced(label 1|predict 1) very fresh sushi(label 1|predict 1)
+go for for two(label 1|predict 1)
+all good very good
+one thing can say service(label 1|predict 1) prompt got seated right away very friendly
+seated food(label 1|predict 1) excellent
+service(label 1|predict 1) usually pretty good
+quite rude
+wait very friendly if not rude meal(label 1|predict 1) last great
+recommend any dishes(label 1|predict 1)
+sweet
+menu(label 0|predict 1) which both
+but cheese(label 1|predict 1) yummy
+menu(label 1|predict 1) something for everyone
+a nice made us all get some eat some more
+very quick service(label 1|predict 1) which great when don't much time
+food(label 0|predict 1) average food(label 0|predict 1)
+highly disappointed food(label 2|predict 2)
+serve never seen way over don't get very cheese(label 2|predict 0)
+prices(label 2|predict 1) way high for brooklyn
+service(label 1|predict 1) prompt friendly
+a hot spot when comes food(label 1|predict 1)
+bar very cool
+food(label 1|predict 1) definitely good but when all said done just couldn't for price(label 2|predict 1) including 2 drinks(label 0|predict 0) person
+come for casual well for a birthday always enjoy
+if a not disappointed
+great selection(label 1|predict 1) too something like
+not too but
+found food(label 1|predict 1) just good just much less expensive
+all recommend yum
+totally a flavor(label 2|predict 1)
+main place price(label 1|predict 1)
+how can business service(label 2|predict 1) like
+but dinner(label 1|predict 2) never disappointing even if prices(label 2|predict 2) a bit over top
+not only amazing pizza(label 1|predict 1) but out world
+most amazing
+sushi(label 1|predict 1) reasonably priced(label 1|predict 1) fresh
+save room for die for
+best things order from
+italian great cheap served(label 1|predict 1) a cozy
+hot sure extremely happy
+last for a late lunch(label 0|predict 0) a friend
+another friend ask 3 times for cheese(label 0|predict 0)
+never tried any food(label 0|predict 1) no one recommend any wine(label 0|predict 1)
+service(label 2|predict 2) a bit slow a bit small if hungry a not place for
+pretty cool but not worth
+next us thought ordered a including for instead given a
+one best restaurants new york which ever a great variety tasty mouth
+service(label 2|predict 1) pretty poor all around food(label 2|predict 1) well average cost(label 2|predict 1) outside a who every who place
+although try stop often for great cheap food(label 1|predict 1) pay friendly a visit
+wait for friend bar(label 0|predict 0) for a few minutes
+always if need a real a real
+if looking taste some great indian food(label 1|predict 1) want good service(label 1|predict 1) definitely visit
+must try all good during hot day make way home a lot
+left feeling not felt good know a lunch(label 1|predict 1)
+when said
+quality meat(label 2|predict 1)
+fresh
+recommend best dish(label 1|predict 1) evening
+then told us could order from menu(label 0|predict 0) wanted but time went some place else
+nothing but cooked last week just a taste(label 2|predict 0)
+during busy recommend make a reservation(label 0|predict 1)
+went for impressed
+called sushi sushi(label 0|predict 1) ok
+food(label 1|predict 1) also outstanding served(label 1|predict 1) quite quickly
+from cheese plate(label 1|predict 1) dishes(label 1|predict 1) restaurant all care
+food(label 1|predict 1) delicious bar(label 1|predict 1) a great
+
+simple food(label 1|predict 2) cheap
+such a fantastic dining experience(label 1|predict 1) again same week
+fair food(label 1|predict 1) still good service(label 1|predict 1) quick even though usually very busy
+place(label 1|predict 1) absolutely food(label 1|predict 1) delicious
+ordered husband got
+better japanese food(label 2|predict 1) a food
+extremely friendly even drink(label 0|predict 1) once when outside
+cool but such a down
+big enough most people but didn't like fact used meat(label 2|predict 1)
+pizza(label 1|predict 1) made really fresh yummy
+a lovely dinner(label 1|predict 1) food(label 1|predict 1) well prepared service(label 1|predict 1) pleasant prompt
+made not sweet light
+finally 5 a time expensive from a
+just because wait even though rest restaurant empty
+wine list(label 1|predict 1) extensive well priced(label 1|predict 1)
+go if want fresh tasty any can
+everything place even
+great food(label 1|predict 1) decent prices(label 1|predict 1) friendly service(label 1|predict 1)
+trying which made us
+only visit wanted authentic italian meal(label 0|predict 1)
+took years for get around making pizza(label 1|predict 0) least don't think ever made before year but worth wait
+asked for a simple
+most dish(label 1|predict 1) but cheese
+probably worst dining experience(label 2|predict 2) new york a know what
+great nice
+ask for table next large
+pizza(label 1|predict 1) but full flavor(label 1|predict 1)
+fact a although everyone no one a off
+love little much anyone else who reviews but must anyone from visiting location rude service(label 2|predict 2) from two people(label 2|predict 2)
+unless live neighborhood not a location(label 2|predict 1) but more like a
+didn't seem like any made quality food(label 2|predict 1)
+food(label 1|predict 1) though simple
+might way too tiny for a restaurant but cozy food(label 1|predict 1) simply great
+food(label 1|predict 1) excellent authentic italian made absolutely fresh
+night waiting
+other times gone romantic date can get a like a a not crowded place(label 1|predict 1) great food(label 1|predict 1) service(label 1|predict 1)
+would only go for which way better than like
+disappointing wine list(label 2|predict 2) only new
+if looking for high priced(label 2|predict 0) food(label 2|predict 2) a cheap place
+new special ok least better than big
+not
+can prices(label 2|predict 1) if served better food(label 2|predict 1) like some chinese restaurants area
+service(label 2|predict 1) because a saturday night
+good place a
+simply lovely friendly
+little place(label 1|predict 1) warm
+perfect for a quick meal(label 1|predict 1)
+a family yet a great place(label 1|predict 1)
+service(label 1|predict 1) great a great deal for
+italian food(label 1|predict 1) authentic gets
+only might never a bad for before
+good for a quick sushi lunch(label 1|predict 1)
+a sit back
+service(label 2|predict 2) slow place only half full a would nice
+went past saturday a excellent meal(label 1|predict 1) a
+came while eating lunch(label 0|predict 1)
+sat bar(label 0|predict 1) didn't seem like wanted
+rice(label 1|predict 1)
+not any choices menu(label 1|predict 1)
+terrific
+would ever believe when over hour wait(label 2|predict 0) when tell 20 30 minutes drinks(label 0|predict 0) just paid for
+selection a variety without
+also a great if not for
+fresh all cheese(label 1|predict 1) fish(label 1|predict 1) rice(label 1|predict 1) a rice some thing(label 1|predict 1) cheese much all delicious
+wonderful taken off bar menu(label 2|predict 1)
+from a look(label 2|predict 1) a bar
+would definitely go back if only for some
+then made a not able 1 2 either end table(label 0|predict 0) for people
+happy hour(label 1|predict 1) cheap but not service(label 1|predict 2)
+after waiting(label 2|predict 1) for almost hour told us give order
+all mediocre places nice one a above
+a area barely for quick tasty cheap prices(label 1|predict 2)
+give a try menu(label 0|predict 1) but
+gets crowded but back everyone who nice
+but for value(label 1|predict 1) a great affordable spot enjoy a fun night out small group
+reviews city probably from restaurants who can't entire attitude(label 1|predict 1) way customers top quality food(label 1|predict 1)
+ordered a glass wine(label 0|predict 1) eating before wine came
+good but wow
+overall a nice place(label 1|predict 1) take a few friends hang out service(label 1|predict 1) excellent
+food(label 1|predict 1) excellent quality for a good restaurant price(label 1|predict 1)
+for get a dessert(label 0|predict 1)
+feel
+restaurant completely empty but a look asked no reservations(label 0|predict 0)
+food(label 2|predict 2) mediocre kind small average a rude actually out a dining(label 0|predict 2)
+good service(label 1|predict 1) great food(label 1|predict 1) good value(label 1|predict 1) never wait(label 1|predict 1) line
+like hot for
+going restaurant for years past service(label 0|predict 0) average food(label 2|predict 0)
+but left room for conversation made superb drinks(label 1|predict 1)
+rice dishes(label 1|predict 1) dishes(label 1|predict 1) a drink(label 1|predict 0) for for night
+doesn't bill(label 2|predict 1)
+creative dishes(label 1|predict 1) like a menu(label 0|predict 1)
+dishes(label 1|predict 1) menu(label 0|predict 1) tried such sweet
+cold which a when order
+came fresh a great meal(label 2|predict 1) all got food(label 2|predict 1) served(label 0|predict 1) a restaurant just couldn't enjoy eating
+appetizer(label 2|predict 1) $8 a italian like for
+went some friends family a very nice dinner(label 1|predict 1) but nothing amazing
+best chinese east prompt good value(label 1|predict 1)
+most made which actually pretty good
+went one day for a table(label 0|predict 0) for a group a very rude
+take a just for awesome dinner(label 1|predict 1)
+not only food(label 1|predict 1) authentic but off know what when comes food(label 1|predict 1) wine(label 1|predict 1)
+good nice interesting selection a neighborhood
+food(label 1|predict 1) great love cold
+food(label 1|predict 1) well food(label 1|predict 1) keep coming back
+waiting(label 2|predict 1) three hours before getting a well
+make a fun place(label 1|predict 1)
+very well although little
+wine list(label 1|predict 1) superb delightful quiet perfect for good conversation
+can eat food(label 1|predict 1) a fast food price(label 1|predict 1)
+eaten all three always love love food(label 1|predict 1) service(label 1|predict 1) always wonderful prices(label 1|predict 1) really reasonable
+not because but food(label 1|predict 1) always delicious
+a great meal(label 1|predict 1) before
+a birthday party recently food(label 1|predict 1) service(label 1|predict 1) amazing
+dinner menu(label 1|predict 1) offers a variety great including fresh huge also a couple meat
+place menu(label 2|predict 1) restaurants too hard make fancy food(label 2|predict 1)
+appetizers(label 0|predict 1) ok but service(label 2|predict 2) slow
+food(label 2|predict 1) not worth price(label 2|predict 1)
+what can say a place where out wrong then year old back which way
+prices(label 1|predict 2) not terrible
+bill(label 2|predict 1)
+appetizer(label 0|predict 1) came a but only thing can say meal
+food(label 1|predict 1) excellent also which good for afternoon
+both a appetizer(label 1|predict 1) amazing
+all time big fish like also
+although
+a pizza not much look but pizza(label 1|predict 0) what go for
+tables(label 2|predict 1) close better other
+for lunch(label 0|predict 1) a area found
+not too much but enough a great
+bar area(label 1|predict 1) too
+got dine establishment again a few ago dining area(label 0|predict 0)
+meat made from a other
+times restaurant tables(label 2|predict 1) close
+service(label 1|predict 1) point what else would expect from a
+like sweet
+just from simple cheese a
+not small fast food real full
+restaurant very casual but perfect for lunch(label 0|predict 1) service(label 1|predict 1) always very fast
+definitely better quality(label 1|predict 1) prices(label 1|predict 1)
+down a person(label 0|predict 2) for a little rude
+go away from
+pretty good
+a
+what got
+wait very attentive
+great restaurant even food(label 1|predict 1)
+dishes(label 1|predict 1) tasty such a cozy intimate place(label 1|predict 1)
+save room for
+love which given food(label 1|predict 1) well
+service(label 1|predict 1) good
+date both ordered both felt fish(label 2|predict 0) very average
+food(label 1|predict 1) good service(label 1|predict 1) prompt price(label 1|predict 1) very reasonable
+wonderful menu(label 1|predict 1) warm great service(label 1|predict 1) food(label 1|predict 1) coming back
+great food(label 1|predict 1) good wine(label 1|predict 1) excellent
+excellent appetizers(label 1|predict 1) main
+definitely try any even
+great
+even better
+nice but a little too
+food(label 1|predict 1) good overall
+food(label 1|predict 1) outstanding service(label 1|predict 1)
+very large service(label 1|predict 1) fantastic
+
+excellent great prices(label 1|predict 1) romantic small but not excellent
+service a quite slow but friendly
+not too sweet but full flavor(label 1|predict 1)
+helpful charming food(label 1|predict 1) perfect wine(label 1|predict 1) good too
+never a bad meal(label 1|predict 2) bad service(label 1|predict 2)
+best hot area
+service(label 1|predict 1) very attentive very
+great food(label 1|predict 1) wine(label 1|predict 1)
+really lovely dining experience(label 1|predict 1) area
+food(label 2|predict 1) really very good service(label 2|predict 1) terrible
+not only best town always try
+least menu(label 1|predict 1) all
+really romantic
+just go food(label 1|predict 1)
+for someone who used indian food(label 1|predict 0)
+finally a can eat enjoy not from from 3 hours later
+all great all fresh
+try
+place beautiful sushi(label 1|predict 1) delicious cheap
+also other dishes(label 1|predict 1) affordable just yummy
+went for restaurant week ordered off menu(label 0|predict 0)
+not only but also extremely helpful
+place(label 1|predict 1) service(label 1|predict 1) warm food(label 1|predict 1) outstanding
+great
+
+sushi(label 1|predict 1) fresh mouth
+but make sure enough room bill(label 2|predict 1) a big
+bring a table(label 0|predict 1) offer 8 choices for tried all
+not only sushi(label 1|predict 1) fresh also served other each something from all left happy try
+good variety(label 1|predict 1) but nothing
+after paid for not given could eat
+if like really thin really big then may not favorite
+no no no no no
+a meal(label 0|predict 1) side like
+out a menu(label 0|predict 1) a cool
+always find make something bland different than what menu(label 0|predict 2)
+good but not best ever not worth outside like
+got but out day
+most appetizer(label 1|predict 1) a served while offers a fresh take sweet
+doesn't look like much outside(label 2|predict 1) but inside a other
+a tasted thin
+sushi(label 2|predict 1) us small cheese like
+service(label 2|predict 1) however a two quality food(label 1|predict 2) horrible for most part could bad from getting for a
+if neighborhood definitely stop for a great meal(label 1|predict 1)
+didn't time any
+make more tables(label 2|predict 1) a bar(label 0|predict 0)
+feeling like actually street part
+although small beautiful excellent food(label 1|predict 1) delicious if don't mind a attentive service(label 1|predict 1)
+didn't go for food(label 0|predict 1) can't comment
+place best good not great
+back eat
+neighborhood during day while late night
+bring date a wine(label 0|predict 1)
+creative menu(label 1|predict 1) japanese dishes(label 0|predict 1) such spicy name a few
+food(label 1|predict 1) excellent not expensive nyc no over most appetizers(label 1|predict 2)
+food(label 1|predict 1) good but how got name best manhattan
+outstanding well fresh
+don't get wrong sushi(label 1|predict 1) good just not fantastic
+know a thing two place one best doesn't
+one brooklyn for over years dont go over for best pizza(label 1|predict 1)
+dinner(label 0|predict 1) a food(label 1|predict 1) great
+recently spent new restaurant a great experience from wine(label 1|predict 1) dessert menu(label 1|predict 1)
+highly recommended restaurant but seems a very relaxing place(label 1|predict 1) also bar(label 1|predict 1) nice
+fine a little but still nice romantic
+but not very good all hour(label 1|predict 1) free appetizers(label 1|predict 1) nice sushi selection(label 1|predict 1)
+took 2 1 2 hours served(label 2|predict 0) 2
+who said go when place(label 0|predict 1) quiet during day
+can a bit busy around times because size(label 2|predict 0)
+street lunch came across great little place(label 1|predict 1) awesome
+good place(label 1|predict 1) hang out during day after a simple dish(label 0|predict 2) over a glass wine(label 0|predict 0)
+very nice very much place(label 1|predict 1)
+however just something great great a casual drink(label 1|predict 1) makes going place(label 1|predict 1)
+seated close
+if a meal(label 0|predict 1) a take extra 10 minutes go location
+but other dishes(label 1|predict 1) including many quite good
+slow service(label 2|predict 2) but when around 10 20 who really
+excellent very fresh real
+don't ever drinks(label 2|predict 1) but people(label 2|predict 1) who work really made worst experience dining(label 2|predict 2)
+room(label 2|predict 1) a little but make such a small place(label 2|predict 0) would not a reason not go
+prices(label 1|predict 1) even outside restaurant week great
+a small eating area(label 1|predict 0) makes for a alone friends
+all cute too which always nice
+best dessert(label 1|predict 1) a particularly but a small world when comes
+for appetizer(label 0|predict 1) a
+one favorite where service(label 1|predict 1) food(label 1|predict 1) always money
+after dinner(label 0|predict 1) heard a
+room(label 1|predict 1) a long bar(label 1|predict 1) perfect for a drink(label 0|predict 1)
+two appetizer selection(label 2|predict 1) would nice get some menu(label 2|predict 1)
+especially impressed during party when went above bring out a well prompt friendly service(label 1|predict 1) a 15 person party
+fresh
+place place many
+several times put bad
+service great maybe even but least get excellent very good
+served(label 0|predict 2) die for
+while a little big for fresh best ever
+food just okay almost not worth going unless getting which only dish(label 1|predict 1) really good
+fresh yet flavor(label 2|predict 1) like fresh
+new menu(label 1|predict 1) a few creative enough keep some old but prices(label 2|predict 1) friendly most time but must person favorite no can't won't for anyone
+only open for lunch(label 0|predict 1) but food(label 1|predict 1) good
+if like food(label 1|predict 1) love place though not limited just things
+menu(label 0|predict 1) even a for
+how can mediocre food(label 0|predict 2) prices(label 2|predict 2)
+food(label 0|predict 2) mediocre service(label 2|predict 2) slow
+eaten a different occasion food(label 0|predict 2) mediocre for prices(label 2|predict 2)
+looking going back soon trying most everything menu(label 1|predict 0)
+just first visit place can't wait go back work way through menu(label 0|predict 1)
+asked what meal(label 0|predict 1) pretty much rude
+for some some rice
+sweet always happy able bring a friends a
+good go for drinks(label 0|predict 1) if don't want get because if can get one drink(label 0|predict 0) hour service(label 2|predict 2) bad
+
+pleasant
+never back food(label 2|predict 1) before but simply over
+although restaurant nice not go for food(label 2|predict 1)
+appetizers(label 1|predict 1) taste excellent when warm
